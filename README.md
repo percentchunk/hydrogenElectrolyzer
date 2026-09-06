@@ -80,13 +80,16 @@ The printed cap measured approximately 89.5 mm compared with the 90 mm CAD dimen
 
 The prototype is currently held together with temporary printed/placeholding hardware rather than the final metal threaded rods and nuts.
 
-### Prototype Photos
+### Project Photos
 
-Add photos here:
+#### CAD Assembly
+![CAD assembly](<img width="1440" height="900" alt="Screenshot 2026-09-06 at 1 22 10 AM" src="https://github.com/user-attachments/assets/dd81780e-7f96-4e94-99dc-586ca96e2470" />
+)
 
-```md
-![Full prototype](photos/full-prototype.jpg)
+#### Full-Size Prototype
+![Full-size prototype](<img width="3024" height="4032" alt="IMG_7929" src="https://github.com/user-attachments/assets/eca173a5-8f78-46c1-b1de-514c83c2be8e" />
+)
 
-![Prototype in stand](photos/prototype-stand.jpg)
-
-![Internal cartridge](photos/cartridge.jpg)
+#### Stand Fit
+![Prototype fitted in stand](<img width="1440" height="900" alt="Screenshot 2026-09-06 at 1 26 51 AM" src="https://github.com/user-attachments/assets/cf77e28d-b399-4443-8687-208d0463cbf5" />
+)
