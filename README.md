@@ -2,9 +2,9 @@
 
 A compact, modular water electrolysis demonstrator inspired by the small “arc reactor” aesthetic.
 
-The project is built around a transparent cylindrical chamber, removable internal electrode cartridge, external structural tie rods, dedicated fill/drain and vent ports, and a custom upright PLA display stand.
+The project is built around a cylindrical chamber, removable internal electrode cartridge, external structural tie rods, dedicated fill/drain and vent ports, and a custom upright PLA display stand.
 
-The mechanical design was created in Onshape and has already been validated with a full-size 3D-printed fit prototype. The prototype confirmed that the main geometry, stand fit, cap alignment, cartridge clearance, and overall proportions work as intended.
+The mechanical design was created in Onshape and has already been checked with a full-size 3D-printed fit prototype. The prototype confirmed that the main geometry, stand fit, cap alignment, cartridge clearance, and overall sizes work as intended.
 
 ---
 
