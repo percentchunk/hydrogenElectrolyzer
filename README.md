@@ -87,9 +87,9 @@ The prototype is currently held together with temporary printed/placeholding har
 
 
 #### Full-Size Prototype
-![Full-size prototype](<img width="3024" height="4032" alt="IMG_7929" src="https://github.com/user-attachments/assets/eca173a5-8f78-46c1-b1de-514c83c2be8e" />
-)
+<img width="3024" height="4032" alt="IMG_7929" src="https://github.com/user-attachments/assets/eca173a5-8f78-46c1-b1de-514c83c2be8e" />
+
 
 #### Stand Fit
-![Prototype fitted in stand](<img width="1440" height="900" alt="Screenshot 2026-09-06 at 1 26 51 AM" src="https://github.com/user-attachments/assets/cf77e28d-b399-4443-8687-208d0463cbf5" />
-)
+<img width="1440" height="900" alt="Screenshot 2026-09-06 at 1 26 51 AM" src="https://github.com/user-attachments/assets/cf77e28d-b399-4443-8687-208d0463cbf5" />
+
